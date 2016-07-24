@@ -7,17 +7,17 @@
   "id":"stand-back",
   "title": "Stand back",
   "excerpt": "Stand back, because we are really crazy",
-  "image": "stand-back.jpg"
+  "image": "stand_back.jpg"
 },{
   "id":"rest-api-recreated",
   "title": "REST API",
   "excerpt": "Everyone of us likes working on REST API, so lets take some",
   "image": "rest-api-recreated.jpg"
 },{
-  "id":"fisrt-svn-commit",
+  "id":"first-svn-commit",
   "title": "First commit",
   "excerpt": "What could possibly go wrong in first commit, this must have happened to us all",
-  "image": "fisrt-svn-commit.jpg"
+  "image": "first-svn-commit.jpg"
 },{
   "id":"programming-methodology",
   "title": "Programming Methodologies",

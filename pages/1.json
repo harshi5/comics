@@ -1,6 +1,61 @@
 [{
-  "id":"introduction",
-  "title": "Introduction",
-  "excerpt": "Welcome to our organization, we are going to change the world",
-  "image": "introduction.jpg"
+  "id":"strange-woman",
+  "title": "Strange Woman",
+  "excerpt": "Temporary variables are really pain in ass",
+  "image": "strange-woman.jpg"
+},{
+  "id":"stand-back",
+  "title": "Stand back",
+  "excerpt": "Stand back, because we are really crazy",
+  "image": "stand-back.jpg"
+},{
+  "id":"rest-api-recreated",
+  "title": "REST API",
+  "excerpt": "Everyone of us likes working on REST API, so let\'s take some",
+  "image": "rest-api-recreated.jpg"
+},{
+  "id":"fisrt-svn-commit",
+  "title": "First commit",
+  "excerpt": "What could possibly go wrong in first commit, this must have happened to us all",
+  "image": "fisrt-svn-commit.jpg"
+},{
+  "id":"programming-methodology",
+  "title": "Programming Methodologies",
+  "excerpt": "We don\'t write because we wanted to, its just the fear which creates softwares",
+  "image": "programming-methodology.jpg"
+},{
+  "id":"funky-furs",
+  "title": "Funky furry boots",
+  "excerpt": "",
+  "image": "funky-furs.jpg"
+},{
+  "id":"fashion",
+  "title": "Fashion coders do",
+  "excerpt": "Well you need to be in comfortable outfit before you start writing code that works",
+  "image": "fashion.jpg"
+},{
+  "id":"all-i-do-is-eat",
+  "title": "All I do is eat",
+  "excerpt": "Eat, drink and code for tomorrow you may die",
+  "image": "all-i-do-is-eat.jpg"
+},{
+  "id":"4",
+  "title": "Emacs Power",
+  "excerpt": "Emacs can do anything in this world, it even launches rockets in space! Trust Me",
+  "image": "4.jpg"
+},{
+  "id":"3",
+  "title": "Bathing Dilemma",
+  "excerpt": "Learn things or earn more money, or both can be done at same place",
+  "image": "3.jpg"
+},{
+  "id":"2",
+  "title": "Linux is the best girlfriend",
+  "excerpt": "The thing with linux is you cannot get your eyes away from it, and spend most of the time with it.",
+  "image": "2.jpg"
+},{
+  "id":"1",
+  "title": "Online Stalking",
+  "excerpt": "When your friend request gets accepted and first thing you do is STALKING",
+  "image": "1.jpg"
 }]

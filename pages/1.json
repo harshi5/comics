@@ -2,7 +2,7 @@
   "id":"strange-woman",
   "title": "Strange Woman",
   "excerpt": "Temporary variables are really pain in ass",
-  "image": "strange-woman.thumbnail.jpg"
+  "image": "strange-woman.thumbnail.png"
 },{
   "id":"stand-back",
   "title": "Stand back",
@@ -17,7 +17,7 @@
   "id":"first-svn-commit",
   "title": "First commit",
   "excerpt": "What could possibly go wrong in first commit",
-  "image": "first-svn-commit.thumbnail.jpg"
+  "image": "first-svn-commit.thumbnail.png"
 },{
   "id":"programming-methodology",
   "title": "Programming Methodologies",
@@ -32,7 +32,7 @@
   "id":"fashion",
   "title": "Fashion coders do",
   "excerpt": "You need to be in comfortable outfit.",
-  "image": "fashion.thumbnail.jpg"
+  "image": "fashion.thumbnail.png"
 },{
   "id":"all-i-do-is-eat",
   "title": "All I do is eat",
@@ -42,20 +42,20 @@
   "id":"4",
   "title": "Emacs Power",
   "excerpt": "Emacs can do anything in this world.",
-  "image": "4.thumbnail.jpg"
+  "image": "4.thumbnail.png"
 },{
   "id":"3",
   "title": "Bathing Dilemma",
   "excerpt": "Learn things or earn more money.",
-  "image": "3.thumbnail.jpg"
+  "image": "3.thumbnail.png"
 },{
   "id":"2",
   "title": "Linux is the best girlfriend",
   "excerpt": "Linux is the best girlfriend",
-  "image": "2.thumbnail.jpg"
+  "image": "2.thumbnail.png"
 },{
   "id":"1",
   "title": "Online Stalking",
   "excerpt": "When your friend request gets accepted.",
-  "image": "1.thumbnail.jpg"
+  "image": "1.thumbnail.png"
 }]

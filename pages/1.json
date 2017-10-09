@@ -1,4 +1,9 @@
 [{
+  "id":"the-idea",
+  "title": "Chapter 1 - Eureka!",
+  "excerpt": "Eureka, our scientist has got this revolutionary idea to change how we precieve softwares and he is planning to change the world!",
+  "image": "the-idea.thumbnail.png"
+},{
   "id":"strange-woman",
   "title": "Strange Woman",
   "excerpt": "Temporary variables are really pain in ass",
